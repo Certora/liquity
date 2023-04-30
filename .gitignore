@@ -24,3 +24,6 @@ cache
 
 # ngrok config is individual to each dev
 ngrok.config.yml
+
+.certora_internal
+.zip-output-url.txt
